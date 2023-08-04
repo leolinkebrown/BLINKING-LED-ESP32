@@ -14,7 +14,7 @@ https://github.com/leolinkebrown/Blinking-LED-Esp32/blob/19c7857d7522ba54e0e0a57
 
 ### Code Explanation
 
-Firstly, the pin for the LED is defined as 13 and set as the output, meaning instead of receiving a signal, it outputs one. Then, on a loop, the LED is turned on and off with delays of 1 second inbetween. 
+Firstly, the pin for the LED is defined as 13 and set as the output, meaning instead of receiving a signal, it outputs one. Then, on a loop, the LED is turned on and off with delays of 1 second inbetween. When the LED is turned on or off, a message is sent to the serial monitor dictating if it was turned on or off.
 
 ## Technologies
 
