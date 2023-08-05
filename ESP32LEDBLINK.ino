@@ -5,9 +5,9 @@ void setup() {
 }
 void loop() {
   digitalWrite (LED_PIN, HIGH); // LED on
-  Serial.println("LED On!");
+  Serial.println("LED On!"); // Prints "LED On!" to the serial monitor
   delay(1000);  // delay of 1 sec
   digitalWrite (LED_PIN, LOW);  // LED off
-  Serial.println("LED Off!");
+  Serial.println("LED Off!"); // Prints "LED Off!" to the serial monitor
   delay(1000);  // delay of 1 sec
 }
