@@ -1,4 +1,4 @@
-# Blinking-LED-ESP32
+# BLINKING-LED-ESP32
 
 A simple program to blink an LED light using an Esp32
 
