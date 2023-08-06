@@ -33,7 +33,7 @@ Firstly, the pin for the LED is defined as 13 and set as the output, meaning ins
 
 - Download Arduino IDE
 - Wire ESP32 board as shown in 'Wiring Diagram'
-- Input code under 'Main'
+- Input code in 'ESP32LEDBLINK.ino' under 'Main'
 - Enjoy!
 
 
