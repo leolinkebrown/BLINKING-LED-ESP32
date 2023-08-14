@@ -36,4 +36,17 @@ Firstly, the pin for the LED is defined as 13 and set as the output, meaning ins
 - Input code in 'ESP32LEDBLINK.ino' under 'Main'
 - Enjoy!
 
+## Bibliography
+
+- ESP32 Tutorial. (n.d.). ESP32 - LED - Blink. [online] Available at: https://esp32io.com/tutorials/esp32-led-blink.
+- Electronics, E., Electronics, P., Electronics, A., Things, I. of, Electronics, A., Vehicles, E., Events, Robotics, Circuits, 555, Projects, A., Projects, R.P., News, E., Forum, E. and Calculators (2018). Getting Started with ESP32 using Arduino IDE - Blink LED. [online] Circuit Digest. Available at: https://circuitdigest.com/microcontroller-projects/getting-started-with-esp32-with-arduino-ide.
+- TechMartian (n.d.). Blinking an LED With ESP32. [online] Instructables. Available at: https://www.instructables.com/Blinking-an-LED-With-ESP32/ [Accessed 14 Aug. 2023].
+- Physical Computing. (n.d.). L2: Blinking an LED. [online] Available at: https://makeabilitylab.github.io/physcomp/esp32/led-blink.html [Accessed 14 Aug. 2023].
+
+‌
+
+‌
+
+‌
+
 
